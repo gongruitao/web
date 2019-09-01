@@ -6,3 +6,9 @@ gcc -o server server.c -g
 
 #run
 ./server
+
+#TODO：
+1.https support
+2.user login
+3.session manager
+4.file read | download | upload
