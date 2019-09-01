@@ -1,0 +1,8 @@
+#do linux C programming in web application
+#http server, http client
+
+#make -g for debug
+gcc -o server server.c -g
+
+#run
+./server
