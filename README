@@ -7,6 +7,11 @@ gcc -o server server.c -g
 #run
 ./server
 
+#feature support
+server：
+1.multi-client
+2.main page
+
 #TODO：
 1.https support
 2.user login
